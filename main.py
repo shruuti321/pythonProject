@@ -4,7 +4,7 @@ from streamlit_chat import message
 from bardapi import Bard
 
 
-token='YAgcDLrT6r3ty7h4Xa2ne2FbRKYAZvaBKS4eYmww_hJITUcLkxbnitBOGdxH-Oeb5uY_Uw.'
+token=''
 
 #url='https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1213&q=80'
 #data-testid="stAppViewContainer"
